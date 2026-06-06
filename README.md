@@ -206,15 +206,15 @@ This dashboard helped identify:
 
 ### Balance Sheet Statement
 
-![Balance Sheet Statement](Magna3.jpeg)
+![Balance Sheet Statement](images/Magna3.jpeg)
 
 ### Cash Flow Statement
 
-![Cash Flow Statement](Magna4.jpeg)
+![Cash Flow Statement](images/Magna4.jpeg)
 
 ### Working Capital
 
-![Working Capital](Magna5.jpeg)
+![Working Capital](images/Magna5.jpeg)
 
 ---
 
