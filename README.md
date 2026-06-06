@@ -11,7 +11,7 @@ A Power BI financial analytics project analyzing five years of financial perform
 
 ## 📷 Dashboard Preview
 
-[![Magna CFO Dashboard](images/magna-dashboard1.png)]()
+[![Magna CFO Dashboard](images/Magna1.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiMTFmNTQ1ZTUtMTVjNC00NDcyLWEzZjgtNDA0Mzc5OTMwMDQ0IiwidCI6IjE3NmVkYzJjLTQzM2UtNGEwZS04YWIyLTMyZTI5NTVjODQ5YSJ9)
 
 ---
 
@@ -198,23 +198,23 @@ This dashboard helped identify:
 
 ### Executive Overview
 
-![Executive Overview](images/magna-dashboard1.png)
+![Executive Overview](images/Magna1.jpeg)
 
 ### Income Statement
 
-![Income Statement](images/magna-dashboard2.png)
+![Income Statement](images/Magna2.jpeg)
 
 ### Balance Sheet Statement
 
-![Balance Sheet Statement](images/magna-dashboard3.png)
+![Balance Sheet Statement](Magna3.jpeg)
 
 ### Cash Flow Statement
 
-![Cash Flow Statement](images/magna-dashboard4.png)
+![Cash Flow Statement](Magna4.jpeg)
 
 ### Working Capital
 
-![Working Capital](images/magna-dashboard5.png)
+![Working Capital](Magna5.jpeg)
 
 ---
 
