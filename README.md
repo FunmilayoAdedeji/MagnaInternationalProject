@@ -1,4 +1,4 @@
-# 🚗 Magna International CFO Executive Dashboard
+# 🚗 Magna International CFO Performance Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![DAX](https://img.shields.io/badge/DAX-20%20Measures-blue)
